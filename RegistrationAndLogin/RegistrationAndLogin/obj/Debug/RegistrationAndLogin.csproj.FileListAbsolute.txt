@@ -1,0 +1,15 @@
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe.config
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.exe
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\bin\Debug\RegistrationAndLogin.pdb
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.AssemblyReference.cache
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Form1.resources
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Form2.resources
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.GenerateResource.cache
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.exe
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.pdb
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\bin\Debug\System.Data.OleDb.dll
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\bin\Debug\System.Data.OleDb.xml
+C:\Users\uvvo\source\repos\RegistrationAndLogin\RegistrationAndLogin\obj\Debug\RegistrationAndLogin.csproj.CopyComplete
